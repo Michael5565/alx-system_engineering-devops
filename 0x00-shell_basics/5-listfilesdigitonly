@@ -1,3 +1,2 @@
-ls -n
 #!/bin/bash
 ls -na
